@@ -1,9 +1,9 @@
 I only modified the code in demo_deconv.py
 
 For a quick run:
-'''
+```
 python demo_deconv.py
-'''
+```
 
 ## Offical PyTorch code for ["Photon-Limited Blind Deconvolution Using Unsupervised Iterative Kernel Estimation"](https://ieeexplore.ieee.org/document/9982288)
 
