@@ -5,6 +5,9 @@ Input image path: "./mydata"
 Output image path: "./out"
 
 For a quick run:
+
+Download the pretrained models, i.e. denoiser and p4ip  into ```model_zoo``` from the link [here](https://drive.google.com/drive/folders/1NvLzQZGjIwNFzScY_cUy8yZ8rQxxQSDX?usp=sharing)
+
 ```
 python demo_deconv.py
 ```
