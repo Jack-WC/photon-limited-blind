@@ -1,4 +1,6 @@
 I only modified the code in demo_deconv.py
+Input image path: "./mydata"
+Output image path: "./out"
 
 For a quick run:
 ```
